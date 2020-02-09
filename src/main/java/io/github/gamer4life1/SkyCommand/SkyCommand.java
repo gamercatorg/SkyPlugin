@@ -1,4 +1,4 @@
-package io.github.gamer4life1;
+package io.github.gamer4life1.SkyCommand;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
