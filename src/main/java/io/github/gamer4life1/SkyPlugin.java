@@ -1,13 +1,15 @@
+package io.github.gamer4life1;
+
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class SkyPlugin extends JavaPlugin {
     @Override
     public void onEnable() {
-        getLogger().info("SkyPlugin has been enabled!");
+        getLogger().info("io.github.gamer4life1.SkyPlugin has been enabled!");
         this.getCommand("kit").setExecutor(new SkyCommand());
     }
     @Override
     public void onDisable() {
-        getLogger().info("SkyPlugin has been disabled!");
+        getLogger().info("io.github.gamer4life1.SkyPlugin has been disabled!");
     }
 }

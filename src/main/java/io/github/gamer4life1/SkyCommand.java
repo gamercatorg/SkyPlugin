@@ -1,3 +1,5 @@
+package io.github.gamer4life1;
+
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.command.Command;
