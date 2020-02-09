@@ -1,4 +1,4 @@
-package io.github.gamer4life1.SkyCommand;
+package io.github.gamer4life1.SkyPlugin;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
@@ -7,9 +7,6 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Entity;
 import org.bukkit.entity.EntityType;
-import org.bukkit.entity.Player;
-
-import java.util.List;
 
 public class SkyCommand implements CommandExecutor {
     @Override

@@ -1,4 +1,4 @@
-package io.github.gamer4life1.SkyCommand;
+package io.github.gamer4life1.SkyPlugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
