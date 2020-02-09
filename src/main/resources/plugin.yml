@@ -1,3 +1,9 @@
 name: SkyPlugin
 version: 1.0
 main: io.github.gamer4life1.SkyPlugin.SkyPlugin
+commands:
+  sky:
+    description: Teleports all mobs to the sky
+    usage: /sky
+    permission: skyplugin.sky
+    permission-message: You don't have permission to use /sky.
